@@ -1,6 +1,6 @@
 # Keras  
 ----  
-
+<img src = logo.png  height = 200 width = 600>
 
 ----  
 > * 파이썬으로 작성된 오픈 소스 신경망 라이브러리  
