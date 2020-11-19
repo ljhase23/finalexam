@@ -60,12 +60,27 @@
 
 -------
 * keras 설치방법  
+> * Python 3.6 설치  
+> * Anaconda 설치  
+>>> 패키지 관리와 디플로이를 단순케 할 목적으로 과학 계산을 위해 파이썬과 R 프로그래밍 언어의 자유-오픈 스 배포판.  
+>>> [Anaconda Download][anaconda]
 
+> * Anaconda를 이용한 keras 설치  
+>>> * Anaconda prompt 실행  
+>>> * conda create-n keras python=3.8  
+>>> * conda activate keras  
+>>> * pip install tensorflow  
+>>> * conda install scipy  
+>>> * pip install keras  
+>>> * pip intstall h5py  
 
 
 ------  
 
-* keras 기초 사용법  
+* keras 기초 사용법 
+> * jupyter notebook 사용.  
+>>> 도큐먼트를 생성하고 공유할 수 있게 해주는 오픈소스 웹 어플리케이션.  
+>>> PYTHON 을 사용.  
 > * Keras에서 레이어들을 구성하는 방법으로 사용되는 핵심적인 자료구조형은 모델.  
 > * 그 중에서도 가장 간단한 형태의 모델은 레이어들을 선형으로 쌓는 Sequential Model.  
 >> * example  
@@ -102,6 +117,6 @@
 ------
 
 
-
+[anaconda]:https://www.anaconda.com/sidtribution/  
 
 
