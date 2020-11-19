@@ -78,6 +78,9 @@
 >>> * pip install keras  
 >>> * pip intstall h5py  
 
+* 설치 확인  
+>>> conda list 명령어를 통해 확인가능  
+<img src = keras.png height = 200 width = 500>  
 
 ------  
 
